@@ -1,12 +1,12 @@
 {
-  "heading": "How do the tax revenues on labour and capital differ across the EU27?",
-  "subheading": "In 2022 the tax revenues between labour and capital in the EU27 averaged 2.29. Showing that labour-based tax revenues are 2.29 times higher than capital-based tax revenues.",
+  "heading": "How do tax revenues on labour and capital differ in EU countries?",
+  "subheading": "In 2022, the average tax revenue on labour and capital in the 27 EU27 was 2.29. This means that tax receipts on labour are 2.29 times higher than those on capital",
   "legend1": "No data available",
   "tooltip1": "Labour-to-capital ratio",
   "textSourceDescription": "Source",
   "textSource": "Annual Report on Taxation 2024",
   "textNoteDescription": "Note",
-  "textNote": "The Labour-to-Capital Ratio reveals that, on average, EU countries tax labour significantly more than capital, with higher ratios indicating a greater reliance on income from wages and social contributions for public revenue, while lower ratios suggest a more balanced or capital-focused tax policy aimed at attracting investments.",
+  "textNote": "The labour-to-capital ratio shows that, on average, EU countries tax labour much more than capital. Higher ratios indicate a greater dependence of public revenues on labour income and social contributions, while lower ratios indicate a more balanced or capital-oriented tax policy aimed at attracting investment.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Click for more info"
