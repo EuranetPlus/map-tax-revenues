@@ -1,12 +1,12 @@
 {
   "heading": "Miten työn ja pääoman verotulot eroavat EU-maissa?",
-  "subheading": "Vuonna 2022 työn ja pääoman keskimääräinen verotulo 27 EU-27:ssä oli 2,29. Tämä tarkoittaa, että työn verotulot ovat 2,29 kertaa suuremmat kuin pääoman verotulot",
+  "subheading": "Vuonna 2022 työn ja pääoman keskimääräinen verotulosuhde EU27:ssä oli 2,29. Tämä tarkoittaa, että työn verotulot ovat 2,29 kertaa suuremmat kuin pääoman verotulot",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "Työvoiman suhde pääomaan",
   "textSourceDescription": "Lähde",
   "textSource": "Vuosikertomus verotuksesta 2024",
   "textNoteDescription": "Huom",
-  "textNote": "Työvoiman suhde pääomaan osoittaa, että EU-maat verottavat keskimäärin työtä paljon enemmän kuin pääomaa. Korkeammat suhdeluvut osoittavat julkisten tulojen suurempaa riippuvuutta työtuloista ja sosiaaliturvamaksuista, kun taas alhaisemmat suhdeluvut osoittavat tasapainoisempaa tai pääomalähtöisempää investointien houkuttelemiseen tähtäävää veropolitiikkaa.",
+  "textNote": "Työvoiman suhde pääomaan osoittaa, että EU-maat verottavat keskimäärin työtä paljon enemmän kuin pääomaa. Korkeammat suhdeluvut osoittavat julkisten tulojen suurempaa riippuvuutta työtuloista ja sosiaaliturvamaksuista, kun taas pienemmät suhdeluvut osoittavat tasapainoisempaa tai pääomasuuntautuneempaa veropolitiikkaa, jolla pyritään houkuttelemaan investointeja.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"
