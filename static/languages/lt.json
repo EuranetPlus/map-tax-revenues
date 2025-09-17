@@ -1,13 +1,13 @@
 {
   "heading": "Kuo skiriasi darbo ir kapitalo mokesčių pajamos ES šalyse?",
-  "subheading": "2022 m. ES 27 vidutinis darbo ir kapitalo mokesčių pajamų santykis buvo 2,29. Tai reiškia, kad darbo mokesčių pajamos yra 2,29 karto didesnės nei kapitalo pajamos",
+  "subheading": "2022 m. vidutinis darbo ir kapitalo mokesčių pajamų ir santykio ES 27 buvo 2,29. Tai reiškia, kad mokesčių įplaukos už darbą yra 2,29 karto didesnės nei už kapitalą.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Darbo ir kapitalo santykis",
   "textSourceDescription": "Šaltinis",
-  "textSource": "2024 m. mokesčių ataskaita",
+  "textSource": "2024 m. metinė mokesčių ataskaita",
   "textNoteDescription": "Pastaba",
-  "textNote": "Darbo ir kapitalo santykis rodo, kad ES šalys vidutiniškai apmokestina darbą daug labiau nei kapitalą. Didesni rodikliai rodo didesnę valstybės pajamų priklausomybę nuo darbo pajamų ir socialinių įmokų, o mažesni rodikliai rodo labiau subalansuotą arba į kapitalą orientuotą mokesčių politiką, kuria siekiama pritraukti investicijas.",
-  "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
+  "textNote": "Darbo ir kapitalo santykis rodo, kad vidutiniškai ES šalys apmokestina darbą daug daugiau nei kapitalą. Didesni santykiai rodo didesnę viešųjų pajamų priklausomybę nuo darbo pajamų ir socialinių įmokų, o mažesni santykiai rodo labiau subalansuotą arba į kapitalą orientuotą mokesčių politiką, kuria siekiama pritraukti investicijas.",
+  "textDataAccess": "Prieiga prie duomenų",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_lt",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

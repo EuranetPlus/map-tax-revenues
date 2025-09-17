@@ -1,12 +1,12 @@
 {
-  "heading": "Kako se razlikujejo davčni prihodki od dela in kapitala v državah EU?",
-  "subheading": "Leta 2022 je bilo povprečno razmerje med davčnimi prihodki na delo in kapital v EU27 2,29. To pomeni, da so davčni prejemki na delo 2,29-krat višji kot na kapital",
-  "legend1": "Ni podatkov",
+  "heading": "Kakšne so razlike med davčnimi prihodki od dela in kapitala v državah EU?",
+  "subheading": "Leta 2022 je bilo povprečno razmerje med davčnimi prihodki od dela in kapitala v EU-27 2,29. To pomeni, da so davčni prihodki od dela 2,29-krat višji od davčnih prihodkov od kapitala.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "Razmerje med delom in kapitalom",
   "textSourceDescription": "Vir",
   "textSource": "Letno poročilo o obdavčitvi 2024",
   "textNoteDescription": "Opomba",
-  "textNote": "Razmerje med delom in kapitalom kaže, da države EU v povprečju veliko bolj obdavčijo delo kot kapital. Višji količniki kažejo na večjo odvisnost javnofinančnih prihodkov od dohodkov iz dela in socialnih prispevkov, nižji pa na bolj uravnoteženo oziroma kapitalsko naravnano davčno politiko, usmerjeno v privabljanje investicij.",
+  "textNote": "Razmerje med delom in kapitalom kaže, da države EU v povprečju veliko bolj obdavčujejo delo kot kapital. Višja razmerja kažejo na večjo odvisnost javnih prihodkov od dohodkov od dela in socialnih prispevkov, nižja razmerja pa na bolj uravnoteženo ali na kapital usmerjeno davčno politiko, katere cilj je privabljanje naložb.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Kliknite za več informacij"

@@ -1,12 +1,12 @@
 {
   "heading": "Ako sa líšia daňové príjmy z práce a kapitálu v krajinách EÚ?",
-  "subheading": "V roku 2022 bol priemerný pomer daňových príjmov z práce a kapitálu v EÚ27 2,29. To znamená, že daňové príjmy z práce sú 2,29-krát vyššie ako príjmy z kapitálu",
+  "subheading": "V roku 2022 bol priemerný pomer daňových príjmov z práce a kapitálu v EÚ27 2,29. To znamená, že daňové príjmy z práce sú 2,29-krát vyššie ako z kapitálu.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "Pomer práce ku kapitálu",
   "textSourceDescription": "Zdroj",
-  "textSource": "Výročná správa o daniach za rok 2024",
+  "textSource": "Výročná správa o zdaňovaní za rok 2024",
   "textNoteDescription": "Poznámka",
-  "textNote": "Pomer práce ku kapitálu ukazuje, že v priemere krajiny EÚ zdaňujú prácu oveľa viac ako kapitál. Vyššie pomery naznačujú väčšiu závislosť verejných príjmov od príjmu z práce a sociálnych príspevkov, zatiaľ čo nižšie pomery naznačujú vyváženejšiu alebo kapitálovo orientovanú daňovú politiku zameranú na prilákanie investícií.",
+  "textNote": "Pomer práce ku kapitálu ukazuje, že krajiny EÚ v priemere zdaňujú prácu oveľa viac ako kapitál. Vyššie pomery naznačujú väčšiu závislosť verejných príjmov od príjmov z práce a sociálnych príspevkov, zatiaľ čo nižšie pomery naznačujú vyváženejšiu alebo na kapitál orientovanú daňovú politiku zameranú na prilákanie investícií.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Kliknite pre viac informácií"

@@ -1,13 +1,13 @@
 {
-  "heading": "Kako se porezni prihodi na rad i kapital razlikuju u zemljama EU?",
-  "subheading": "U 2022. prosječni omjer poreznih prihoda na rad i kapital u EU27 bio je 2,29. To znači da su porezni primici na rad 2,29 puta veći od onih na kapital",
+  "heading": "Po čemu se porezni prihodi na rad i kapital razlikuju u zemljama EU-a?",
+  "subheading": "U 2022. godini prosječni omjer poreznih prihoda na rad i kapital u EU27 bio je 2,29. To znači da su porezni prihodi na rad 2,29 puta veći od onih na kapital.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "Odnos rada i kapitala",
+  "tooltip1": "Omjer rada i kapitala",
   "textSourceDescription": "Izvor",
-  "textSource": "Godišnje izvješće o porezima 2024",
+  "textSource": "Godišnje izvješće o oporezivanju za 2024. godinu",
   "textNoteDescription": "Bilješka",
-  "textNote": "Omjer rada i kapitala pokazuje da zemlje EU u prosjeku znatno više oporezuju rad nego kapital. Viši omjeri ukazuju na veću ovisnost javnih prihoda o dohotku od rada i socijalnim doprinosima, dok niži omjeri ukazuju na uravnoteženiju ili kapitalno usmjereniju poreznu politiku usmjerenu na privlačenje investicija.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Omjer rada i kapitala pokazuje da zemlje EU u prosjeku oporezuju rad puno više nego kapital. Viši omjeri ukazuju na veću ovisnost javnih prihoda o dohotku od rada i socijalnim doprinosima, dok niži omjeri ukazuju na uravnoteženiju ili na kapital usmjerenu poreznu politiku usmjerenu na privlačenje ulaganja.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Kliknite za više informacija"
 }

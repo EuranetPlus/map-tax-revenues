@@ -1,13 +1,13 @@
 {
-  "heading": "Jak różnią się dochody z podatków od pracy i kapitału w krajach UE?",
-  "subheading": "W 2022 r. średni wskaźnik dochodów podatkowych z pracy i kapitału w UE27 wyniósł 2,29. Oznacza to, że wpływy podatkowe z pracy są 2,29 razy wyższe niż te z kapitału",
+  "heading": "Jakie są różnice w dochodach podatkowych z pracy i kapitału w krajach UE?",
+  "subheading": "W 2022 r. średni wskaźnik wpływów podatkowych z pracy i kapitału w UE-27 wyniósł 2,29. Oznacza to, że wpływy podatkowe z pracy są 2,29 razy wyższe niż z kapitału.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "Współczynnik pracy do kapitału",
+  "tooltip1": "Stosunek pracy do kapitału",
   "textSourceDescription": "Źródło",
-  "textSource": "Roczny raport podatkowy 2024",
+  "textSource": "Roczne sprawozdanie podatkowe 2024",
   "textNoteDescription": "Notatka",
-  "textNote": "Wskaźnik pracy do kapitału pokazuje, że średnio kraje UE opodatkowują pracę znacznie bardziej niż kapitał. Wyższe wskaźniki wskazują na większą zależność dochodów publicznych od dochodów z pracy i składek na ubezpieczenia społeczne, podczas gdy niższe wskaźniki wskazują na bardziej zrównoważoną lub zorientowaną na kapitał politykę podatkową mającą na celu przyciągnięcie inwestycji.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analytic-taxation/data-taxation-trends_en",
+  "textNote": "Wskaźnik pracy do kapitału pokazuje, że średnio kraje UE opodatkowują pracę znacznie bardziej niż kapitał. Wyższe wskaźniki wskazują na większą zależność dochodów publicznych od dochodów z pracy i składek na ubezpieczenia społeczne, podczas gdy niższe wskaźniki wskazują na bardziej zrównoważoną lub zorientowaną na kapitał politykę podatkową, mającą na celu przyciągnięcie inwestycji.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

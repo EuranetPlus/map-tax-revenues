@@ -1,13 +1,13 @@
 {
-  "heading": "Comment les recettes fiscales sur le travail et sur le capital diffèrent-elles dans les pays de l’UE ?",
-  "subheading": "En 2022, le ratio moyen des recettes fiscales sur le travail et le capital dans l'UE27 était de 2,29. Cela signifie que les recettes fiscales sur le travail sont 2,29 fois supérieures à celles sur le capital",
+  "heading": "Comment les recettes fiscales sur le travail et le capital diffèrent-elles dans les pays de l’UE ?",
+  "subheading": "En 2022, le ratio moyen des recettes fiscales sur le travail et le capital dans l'UE-27 était de 2,29. Cela signifie que les recettes fiscales sur le travail sont 2,29 fois supérieures à celles sur le capital.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Ratio travail/capital",
   "textSourceDescription": "Source",
   "textSource": "Rapport annuel sur la fiscalité 2024",
   "textNoteDescription": "Note",
-  "textNote": "Le ratio travail/capital montre qu'en moyenne, les pays de l'UE taxent beaucoup plus le travail que le capital. Des ratios plus élevés indiquent une plus grande dépendance des recettes publiques aux revenus du travail et aux cotisations sociales, tandis que des ratios plus faibles indiquent une politique fiscale plus équilibrée ou plus orientée vers le capital, visant à attirer les investissements.",
+  "textNote": "Le ratio travail/capital montre qu'en moyenne, les pays de l'UE taxent beaucoup plus le travail que le capital. Des ratios plus élevés indiquent une plus grande dépendance des recettes publiques aux revenus du travail et aux cotisations sociales, tandis que des ratios plus faibles indiquent une politique fiscale plus équilibrée ou plus axée sur le capital, visant à attirer les investissements.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/enomic-analysis-taxation/data-taxation-trends_en",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_fr",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Conas atá ioncam cánach ar shaothar agus ar chaipiteal difriúil i dtíortha an AE?",
-  "subheading": "In 2022, ba é 2.29 an meánchóimheas ioncam cánach ar shaothar agus ar chaipiteal san AE27. Ciallaíonn sé seo go bhfuil fáltais chánach ar shaothar 2.29 uair níos airde ná iad siúd ar chaipiteal",
+  "heading": "Cén difríocht atá idir ioncam cánach ar shaothar agus ar chaipiteal i dtíortha an AE?",
+  "subheading": "Sa bhliain 2022, ba é 2.29 an cóimheas ioncaim cánach meánach ar shaothar agus ar chaipiteal san AE27. Ciallaíonn sé seo go bhfuil fáltais chánach ar shaothar 2.29 uair níos airde ná iad siúd ar chaipiteal.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "Cóimheas saothair-go-caipitil",
+  "tooltip1": "Cóimheas saothair-le-caipiteal",
   "textSourceDescription": "Foinse",
-  "textSource": "Tuarascáil Bhliantúil ar Chánachas, 2024",
+  "textSource": "Tuarascáil Bhliantúil ar Chánachas 2024",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn an cóimheas saothair-go-caipitil, ar an meán, go gcáineann tíortha AE saothair i bhfad níos mó ná caipiteal. Léiríonn cóimheasa níos airde go bhfuil ioncam poiblí ag brath níos mó ar ioncam saothair agus ranníocaíochtaí sóisialta, agus léiríonn cóimheasa níos ísle beartas cánach atá níos cothroime nó atá dírithe ar chaipiteal atá dírithe ar infheistíocht a mhealladh.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_ga",
+  "textNote": "Léiríonn an cóimheas saothair-le-caipiteal go ngearrann tíortha an AE, ar an meán, i bhfad níos mó cánach ar shaothar ná ar chaipiteal. Léiríonn cóimheasa níos airde go bhfuil ioncam poiblí ag brath níos mó ar ioncam saothair agus ar ranníocaíochtaí sóisialta, ach léiríonn cóimheasa níos ísle beartas cánach níos cothroime nó níos dírithe ar chaipiteal atá dírithe ar infheistíocht a mhealladh.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

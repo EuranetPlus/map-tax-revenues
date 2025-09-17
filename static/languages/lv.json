@@ -1,13 +1,13 @@
 {
-  "heading": "Kā ES valstīs atšķiras darbaspēka un kapitāla nodokļu ieņēmumi?",
-  "subheading": "2022. gadā vidējā darbaspēka un kapitāla nodokļu ieņēmumu attiecība ES27 valstīs bija 2,29. Tas nozīmē, ka darbaspēka nodokļu ieņēmumi ir 2,29 reizes lielāki nekā kapitāla ieņēmumi",
-  "legend1": "Nav pieejami dati",
+  "heading": "Kā atšķiras nodokļu ieņēmumi no darbaspēka un kapitāla ES valstīs?",
+  "subheading": "2022. gadā vidējā nodokļu ieņēmumu attiecība darbaspēkam un kapitālam ES27 bija 2,29. Tas nozīmē, ka nodokļu ieņēmumi no darbaspēka ir 2,29 reizes lielāki nekā no kapitāla.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "Darbaspēka un kapitāla attiecība",
   "textSourceDescription": "Avots",
   "textSource": "2024. gada pārskats par nodokļiem",
   "textNoteDescription": "Piezīme",
-  "textNote": "Darbaspēka attiecība pret kapitālu liecina, ka vidēji ES valstis darbaspēkam tiek uzlikts daudz lielāks nodoklis nekā kapitālam. Augstāki rādītāji liecina par lielāku valsts ieņēmumu atkarību no darba ienākumiem un sociālajām iemaksām, savukārt zemāki rādītāji liecina par sabalansētāku vai uz kapitālu orientētāku nodokļu politiku, kas vērsta uz investīciju piesaisti.",
+  "textNote": "Darbaspēka un kapitāla attiecība liecina, ka vidēji ES valstis darbaspēkam piemēro daudz lielākus nodokļus nekā kapitālam. Augstāki rādītāji liecina par lielāku valsts ieņēmumu atkarību no darba ienākumiem un sociālajām iemaksām, savukārt zemāki rādītāji liecina par līdzsvarotāku vai uz kapitālu orientētu nodokļu politiku, kuras mērķis ir piesaistīt investīcijas.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

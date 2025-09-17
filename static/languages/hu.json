@@ -1,13 +1,13 @@
 {
-  "heading": "Miben tér el a munka és a tőke adóbevétele az EU-országokban?",
-  "subheading": "2022-ben a munkát és a tőkét terhelő átlagos adóbevétel aránya 2,29 volt az EU-27-ben. Ez azt jelenti, hogy a munkát terhelő adóbevételek 2,29-szer magasabbak, mint a tőke utáni adóbevételek",
-  "legend1": "Nincs adat",
-  "tooltip1": "A munkaerő-tőkéhez viszonyított arány",
+  "heading": "Hogyan különböznek a munkaerőre és a tőkére vonatkozó adóbevételek az EU-tagállamokban?",
+  "subheading": "2022-ben az EU27-ben a munkaerőre és a tőkére vonatkozó átlagos adóbevétel-arány 2,29 volt. Ez azt jelenti, hogy a munkaerőre vonatkozó adóbevételek 2,29-szer magasabbak, mint a tőkére vonatkozóak.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "Munkaerő-tőke arány",
   "textSourceDescription": "Forrás",
-  "textSource": "Éves jelentés az adózásról 2024",
+  "textSource": "2024. évi adózási éves jelentés",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A munkaerő-tőkéhez viszonyított arány azt mutatja, hogy az EU-országok átlagosan sokkal jobban megadóztatják a munkát, mint a tőkét. A magasabb arányok az állami bevételek nagyobb függőségét jelzik a munkajövedelemtől és a társadalombiztosítási járulékoktól, míg az alacsonyabb arányok kiegyensúlyozottabb vagy tőkeorientáltabb, befektetésvonzó adópolitikát jeleznek.",
+  "textNote": "A munkaerő-tőke arány azt mutatja, hogy az EU-országok átlagosan sokkal jobban adóztatják a munkaerőt, mint a tőkét. A magasabb arányok a közbevételek nagyobb függőségét jelzik a munkajövedelmektől és a társadalombiztosítási járulékoktól, míg az alacsonyabb arányok kiegyensúlyozottabb vagy tőkeorientáltabb adópolitikát jeleznek, amelynek célja a befektetések vonzása.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
-  "textCountryClick": "Kattintson további információkért"
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_hu",
+  "textCountryClick": "Kattintson a további információkért"
 }

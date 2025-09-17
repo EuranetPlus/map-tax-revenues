@@ -1,12 +1,12 @@
 {
-  "heading": "Come differiscono le entrate fiscali sul lavoro e sul capitale nei paesi dell'UE?",
-  "subheading": "Nel 2022, il rapporto medio tra entrate fiscali su lavoro e capitale nell'UE27 era pari a 2,29. Ciò significa che le entrate fiscali sul lavoro sono 2,29 volte superiori a quelle sul capitale",
+  "heading": "In che modo differiscono le entrate fiscali sul lavoro e sul capitale nei paesi dell'UE?",
+  "subheading": "Nel 2022, il rapporto medio tra gettito fiscale sul lavoro e sul capitale nell'UE27 era pari a 2,29. Ciò significa che le entrate fiscali sul lavoro sono 2,29 volte superiori a quelle sul capitale.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "Rapporto lavoro/capitale",
+  "tooltip1": "rapporto lavoro-capitale",
   "textSourceDescription": "Fonte",
   "textSource": "Relazione annuale sulla tassazione 2024",
   "textNoteDescription": "Nota",
-  "textNote": "Il rapporto lavoro-capitale mostra che, in media, i paesi dell'UE tassano il lavoro molto più del capitale. Rapporti più alti indicano una maggiore dipendenza delle entrate pubbliche dal reddito da lavoro e dai contributi sociali, mentre rapporti più bassi indicano una politica fiscale più equilibrata o orientata al capitale, volta ad attrarre investimenti.",
+  "textNote": "Il rapporto lavoro/capitale mostra che, in media, i paesi dell'UE tassano il lavoro molto più del capitale. Rapporti più elevati indicano una maggiore dipendenza delle entrate pubbliche dal reddito da lavoro e dai contributi sociali, mentre rapporti più bassi indicano una politica fiscale più equilibrata o orientata al capitale, volta ad attrarre investimenti.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Clicca per maggiori informazioni"

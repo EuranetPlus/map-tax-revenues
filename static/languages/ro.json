@@ -1,13 +1,13 @@
 {
-  "heading": "Cum diferă veniturile fiscale pe muncă și capital în țările UE?",
-  "subheading": "În 2022, raportul mediu al veniturilor fiscale pe muncă și capital în UE27 a fost de 2,29. Aceasta înseamnă că încasările fiscale pe muncă sunt de 2,29 ori mai mari decât cele pe capital",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "Raportul forță de muncă-capital",
+  "heading": "Cum diferă veniturile fiscale pe muncă și pe capital în țările UE?",
+  "subheading": "În 2022, raportul mediu dintre veniturile fiscale din muncă și cele din capital în UE-27 a fost de 2,29. Aceasta înseamnă că încasările fiscale din muncă sunt de 2,29 ori mai mari decât cele din capital.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "Raportul muncă-capital",
   "textSourceDescription": "Sursă",
   "textSource": "Raport anual privind impozitarea 2024",
   "textNoteDescription": "Nota",
-  "textNote": "Raportul forță de muncă-capital arată că, în medie, țările UE impozitează munca mult mai mult decât capitalul. Ratele mai mari indică o dependență mai mare a veniturilor publice de veniturile din muncă și contribuțiile sociale, în timp ce ratele mai mici indică o politică fiscală mai echilibrată sau orientată spre capital, care vizează atragerea investițiilor.",
+  "textNote": "Raportul dintre forța de muncă și capital arată că, în medie, țările UE impozitează forța de muncă mult mai mult decât capitalul. Ratele mai mari indică o dependență mai mare a veniturilor publice de veniturile din muncă și de contribuțiile sociale, în timp ce ratele mai mici indică o politică fiscală mai echilibrată sau mai orientată spre capital, care vizează atragerea investițiilor.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

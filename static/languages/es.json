@@ -1,13 +1,13 @@
 {
   "heading": "¿En qué se diferencian los ingresos fiscales sobre el trabajo y el capital en los países de la UE?",
-  "subheading": "En 2022, la ratio media de ingresos fiscales sobre el trabajo y el capital en la UE27 fue del 2,29, lo que significa que los ingresos fiscales sobre el trabajo son 2,29 veces superiores a los del capital.",
+  "subheading": "En 2022, la ratio media de ingresos fiscales sobre el trabajo y el capital en la UE-27 fue del 2,29. Esto significa que los ingresos fiscales sobre el trabajo son 2,29 veces superiores a los del capital.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "Relación trabajo-capital",
   "textSourceDescription": "Fuente",
-  "textSource": "Informe anual sobre fiscalidad 2024",
+  "textSource": "Informe Anual sobre Tributación 2024",
   "textNoteDescription": "Nota",
-  "textNote": "La relación entre el trabajo y el capital muestra que, en promedio, los países de la UE gravan el trabajo mucho más que el capital. Los índices más altos indican una mayor dependencia de los ingresos públicos de las rentas del trabajo y de las cotizaciones sociales, mientras que los índices más bajos indican una política fiscal más equilibrada o más orientada al capital, destinada a atraer inversiones.",
+  "textNote": "La ratio trabajo-capital muestra que, en promedio, los países de la UE gravan el trabajo mucho más que el capital. Una ratio más alta indica una mayor dependencia de los ingresos públicos de las rentas del trabajo y las cotizaciones sociales, mientras que una ratio más baja indica una política fiscal más equilibrada o orientada al capital, destinada a atraer inversión.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_es",
   "textCountryClick": "Haga clic para más información"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Hvordan adskiller skatteindtægter på arbejde og kapital sig i EU-landene?",
-  "subheading": "I 2022 var det gennemsnitlige skatteindtægtsforhold på arbejde og kapital i EU27 2,29. Det betyder, at skatteindtægterne på arbejde er 2,29 gange højere end på kapital",
-  "legend1": "Ingen tilgængelige data",
-  "tooltip1": "Arbejdskraft i forhold til kapital",
+  "heading": "Hvordan er skatteindtægterne fra arbejde og kapital forskellige i EU-landene?",
+  "subheading": "I 2022 var den gennemsnitlige skatteprocent på arbejde og kapital i EU27 2,29. Det betyder, at skatteindtægterne på arbejde er 2,29 gange højere end på kapital.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "Arbejdskraft/kapital-forhold",
   "textSourceDescription": "Kilde",
-  "textSource": "Årsberetning om beskatning 2024",
+  "textSource": "Årsrapport om beskatning 2024",
   "textNoteDescription": "Note",
-  "textNote": "Arbejdskraft-til-kapital-forholdet viser, at EU-landene i gennemsnit beskatter arbejde meget mere end kapital. Højere nøgletal indikerer en større afhængighed af offentlige indtægter af arbejdsindkomst og sociale bidrag, mens lavere nøgletal indikerer en mere afbalanceret eller kapitalorienteret skattepolitik, der sigter mod at tiltrække investeringer.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Forholdet mellem arbejdskraft og kapital viser, at EU-landene i gennemsnit beskatter arbejdskraft langt mere end kapital. Højere forhold indikerer en større afhængighed af offentlige indtægter af arbejdsindkomst og sociale bidrag, mens lavere forhold indikerer en mere afbalanceret eller kapitalorienteret skattepolitik, der sigter mod at tiltrække investeringer.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Kuidas erinevad tööjõu ja kapitali maksutulud EL-i riikides?",
-  "subheading": "2022. aastal oli EL27 keskmine tööjõu ja kapitali maksutulu suhe 2,29. See tähendab, et tööjõu maksulaekumised on 2,29 korda suuremad kui kapitali maksud",
-  "legend1": "Andmed puuduvad",
+  "heading": "Kuidas erinevad tööjõu ja kapitali maksutulud ELi riikides?",
+  "subheading": "2022. aastal oli EL 27 keskmine tööjõu ja kapitali maksutulude suhe 2,29. See tähendab, et tööjõu maksutulud on 2,29 korda suuremad kui kapitalilt laekuvad maksutulud.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "Tööjõu ja kapitali suhe",
   "textSourceDescription": "Allikas",
-  "textSource": "Maksustamise 2024. aasta aruanne",
+  "textSource": "Maksunduse aastaaruanne 2024",
   "textNoteDescription": "Märkus",
-  "textNote": "Tööjõu ja kapitali suhe näitab, et ELi riigid maksustavad keskmiselt palju rohkem tööjõudu kui kapitali. Kõrgemad suhtarvud viitavad avaliku sektori tulude suuremale sõltuvusele töötulust ja sotsiaalmaksetest, madalamad suhtarvud aga tasakaalustatumat või kapitalile suunatud maksupoliitikat, mille eesmärk on investeeringute kaasamine.",
+  "textNote": "Tööjõu ja kapitali suhe näitab, et keskmiselt maksustavad EL riigid tööjõudu palju rohkem kui kapitali. Kõrgemad suhtarvud näitavad avaliku sektori tulude suuremat sõltuvust tööjõutulust ja sotsiaalmaksetest, madalamad suhtarvud aga tasakaalustatumat või kapitalile orienteeritud maksupoliitikat, mille eesmärk on investeeringute ligimeelitamine.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

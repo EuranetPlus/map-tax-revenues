@@ -1,13 +1,13 @@
 {
   "heading": "Como as receitas fiscais sobre trabalho e capital diferem nos países da UE?",
-  "subheading": "Em 2022, a taxa média de receitas fiscais sobre o trabalho e o capital na UE27 foi de 2,29. Isto significa que as receitas fiscais sobre o trabalho são 2,29 vezes superiores às do capital",
-  "legend1": "Não há dados disponíveis",
-  "tooltip1": "Proporção trabalho-capital",
+  "subheading": "Em 2022, a taxa média de receitas fiscais sobre o trabalho e o capital na UE27 foi de 2,29. Isto significa que as receitas fiscais sobre o trabalho são 2,29 vezes superiores às sobre o capital.",
+  "legend1": "Nenhum dado disponível",
+  "tooltip1": "Razão trabalho-capital",
   "textSourceDescription": "Fonte",
   "textSource": "Relatório Anual de Tributação 2024",
   "textNoteDescription": "Observação",
-  "textNote": "A relação trabalho-capital mostra que, em média, os países da UE tributam o trabalho muito mais do que o capital. Relações mais altas indicam uma maior dependência das receitas públicas da renda do trabalho e das contribuições sociais, enquanto relações mais baixas indicam uma política tributária mais equilibrada ou orientada para o capital, visando atrair investimentos.",
+  "textNote": "A relação trabalho-capital mostra que, em média, os países da UE tributam o trabalho muito mais do que o capital. Índices mais elevados indicam uma maior dependência das receitas públicas dos rendimentos do trabalho e das contribuições sociais, enquanto índices mais baixos indicam uma política fiscal mais equilibrada ou orientada para o capital, com o objetivo de atrair investimentos.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-análise-taxation/data-taxation-trends_en",
+  "linkDataAccess": "https://taxation-customs.ec.europa.eu/taxation/economic-analysis-taxation/data-taxation-trends_en",
   "textCountryClick": "Clique para mais informações"
 }
